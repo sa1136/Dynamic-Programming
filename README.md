@@ -9,3 +9,4 @@
 7. Unique Paths with Obstacles
 8. Minimum Path Sum
 9. Triangle
+10. Minimum Falling Path Sum
