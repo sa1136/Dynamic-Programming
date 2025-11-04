@@ -6,3 +6,4 @@
 4. House Robber
 5. House Robber 2
 6. Unique Paths
+7. Unique Paths with Obstacles
