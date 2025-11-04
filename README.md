@@ -8,3 +8,4 @@
 6. Unique Paths
 7. Unique Paths with Obstacles
 8. Minimum Path Sum
+9. Triangle
