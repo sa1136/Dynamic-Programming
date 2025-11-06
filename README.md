@@ -25,3 +25,4 @@
 23. Longest Increasing Subsequence (Reconstruction)
 24. Longest Common Subsequence
 25. Longest Palindromic Subsequence
+26. Minimum Insertions to Make String Palindrome
