@@ -22,3 +22,4 @@
 20. Best Time to Buy and Sell Stock
 21. Best Time to Buy and Sell Stock II
 22. Longest Increasing Subsequence
+23. Longest Increasing Subsequence (Reconstruction)
