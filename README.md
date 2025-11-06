@@ -24,3 +24,4 @@
 22. Longest Increasing Subsequence
 23. Longest Increasing Subsequence (Reconstruction)
 24. Longest Common Subsequence
+25. Longest Palindromic Subsequence
