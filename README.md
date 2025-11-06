@@ -28,3 +28,4 @@
 26. Minimum Insertions to Make String Palindrome
 27. Delete Operation for Two Strings
 28. Matrix Chain Multiplication
+29. Minimum Cost to Cut a Stick
