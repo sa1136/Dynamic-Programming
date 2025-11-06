@@ -27,3 +27,4 @@
 25. Longest Palindromic Subsequence
 26. Minimum Insertions to Make String Palindrome
 27. Delete Operation for Two Strings
+28. Matrix Chain Multiplication
