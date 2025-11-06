@@ -21,3 +21,4 @@
 19. Rod Cutting
 20. Best Time to Buy and Sell Stock
 21. Best Time to Buy and Sell Stock II
+22. Longest Increasing Subsequence
