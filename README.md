@@ -30,3 +30,4 @@
 28. Matrix Chain Multiplication
 29. Minimum Cost to Cut a Stick
 30. Burst Balloons
+31. Ice Sliding Grid Reachability
